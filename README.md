@@ -1,4 +1,4 @@
-# ML - NY-Cheap-Rentals
+# ML - NY Cheap Rentals
 Machine Learning - Cheaper New York Rentals
 
 This Jupyter notebook uses following Python modules:
